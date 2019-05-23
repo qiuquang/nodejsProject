@@ -1,0 +1,7 @@
+{
+    "name": "anydoor",
+    "main": "./app_promisity.js",
+    "bin": {
+        "anydoor": "bin/anydoor"
+    }
+}

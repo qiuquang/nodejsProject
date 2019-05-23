@@ -1,0 +1,9 @@
+postman 发送post请求
+router：只管路由相关，并且发送controller的数据请求
+controller：处理数据请求
+
+路由和API
+API  前端和后端  不同端（子系统）之间对接是术语
+     1.url(路由) '/api/blog/list'，输入，输出。
+路由：
+    API的一部分，后端系统内部的一个定义     
