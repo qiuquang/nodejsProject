@@ -15,4 +15,4 @@ API  前端和后端  不同端（子系统）之间对接是术语
     3.git add .  全部文件!!!
         git add file 单独文件
     4.git commit -m 'xxxxx'
-    5.git push '远程地址'
+    5.git push '远程地址'    efasdfasdfsdfdfsadfsdfsd57456456
