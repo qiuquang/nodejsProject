@@ -1,6 +1,6 @@
 postman 发送post请求
 router：只管路由相关，并且发送controller的数据请求
-controller：处理数据请求
+controller：处理数据请求ddd
 
 路由和API
 API  前端和后端  不同端（子系统）之间对接是术语
