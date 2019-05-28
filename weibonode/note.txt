@@ -8,9 +8,7 @@ API  前端和后端  不同端（子系统）之间对接是术语
 路由：
     API的一部分，后端系统内部的一个定义     
 
-<<<<<<< HEAD
     我是git dev 分支的东西！！----ssddfdfds
-=======
 
 git提交流程
 1、（先进入项目文件夹）通过命令 git init 把这个目录变成git可以管理的仓库
@@ -44,7 +42,6 @@ git push -u origin master
 
 git具体操作见 https://www.cnblogs.com/ashidamana/p/6122619.html  vscode编辑器下的
 
->>>>>>> 7ed966b49dd091e43b96c25bd97025397aa09f90
 
     1.git remote -v  // 查看git的远程仓库
     git remote add origin https://github.com/qiuquang/nodejsProject.git
