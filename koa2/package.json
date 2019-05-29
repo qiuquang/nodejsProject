@@ -12,6 +12,8 @@
     "co": "^4.6.0"
   },
   "dependencies": {
+    "koa": "^2.7.0",
+    "koa-logger": "^3.2.0",
     "node-fetch": "^2.6.0"
   }
 }
